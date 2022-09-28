@@ -1,6 +1,6 @@
 # PPOL564 Slides and Activities
 
-Repo for Georgetown McCourt's School of Public Policy's Data Science I (PPOL 564)
+Repo for Georgetown McCourt's School of Public Policy's Data Science I (PPOL 564) in Fall of 2022
 
 
 ## Slides and Activities (Fall '22)
