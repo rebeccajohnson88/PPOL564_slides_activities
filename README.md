@@ -53,3 +53,15 @@ These are jupyter notebook-based activities to practice Python or other concepts
     - Saving figures to export
     - Using user-defined function to iterate over entities and efficiently save many figures
     - **Solutions**: [04_latex_output_examples_solutions.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/solutions/04_latex_output_examples_solutions.ipynb)
+
+
+- [06_reshaping_merging_blank.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/06_reshaping_merging_blank.ipynb)
+  - **Data**: San Diego business tax certificate data; Census NAICS code data
+  - **Concepts covered**:
+    - Reshaping between long and wide
+    - Data cleaning such as extraneous rows/columns
+    - Recasting join cols to allow join (e.g., converting `int` to character)
+    - `pd.merge` and different types of exact joins using join keys
+    - Post-merge diagnostics
+   - **Slides**: [05_ppol564_f22_mergereshape.pdf](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/slides/fall_22/05_ppol564_f22_mergereshape.pdf)
+   - **Solutions**: [06_reshaping_merging_solutions.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/solutions/06_reshaping_merging_solutions.ipynb)
