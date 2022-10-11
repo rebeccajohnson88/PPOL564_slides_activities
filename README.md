@@ -39,3 +39,17 @@ These are jupyter notebook-based activities to practice Python or other concepts
    -  **Slides**: [03_ppol564_f22_userdefinedfunctions_part1.pdf](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/slides/fall_22/03_ppol564_f22_userdefinedfunctions_part1.pdf)
    -  **Solutions**: [02_functions_part1_solutions.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/solutions/02_functions_part1_solutions.ipynb)
   
+- [03_plottingexamples_plotnine.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/03_plottingexamples_plotnine.ipynb)
+  - **Data**: DC crime reports in 2020
+  - **Concepts covered**:
+    - Bar chart
+    - Line graph
+    - Coloring and/or faceting by group
+ 
+- [04_latex_output_examples_blank.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/04_latex_output_examples_blank.ipynb)
+  - **Data**: DC crime reports in 2020
+  - **Concepts covered**:
+    - Creating tables to export to LaTeX
+    - Saving figures to export
+    - Using user-defined function to iterate over entities and efficiently save many figures
+    - **Solutions**: [04_latex_output_examples_solutions.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/solutions/04_latex_output_examples_solutions.ipynb)
