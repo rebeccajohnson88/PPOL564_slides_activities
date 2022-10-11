@@ -76,7 +76,7 @@ These are jupyter notebook-based activities to practice Python or other concepts
 
 
 - [07_regex_blank.ipynb](https://github.com/rebeccajohnson88/PPOL564_slides_activities/blob/main/activities/fall_22/07_regex_blank.ipynb)
-- - **Data**: Food Research Action Center (FRAC) data on district and school's election of community eligibility provision (CEP) for Free or Reduced Price Lunch (FRPL)
+   - **Data**: Food Research Action Center (FRAC) data on district and school's election of community eligibility provision (CEP) for Free or Reduced Price Lunch (FRPL)
    - **Concepts covered**: 
      - Pattern construction using `re` module
      - `re.sub` for replacement
